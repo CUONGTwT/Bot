@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\includes",
+    "\\includes\\handle",
+    "\\modules",
+    "\\modules\\commands",
+    "\\modules\\events",
+    "\\utils"
+  ],
+  "SelectedNode": "\\modules\\commands\\custom.js",
+  "PreviewInSolutionExplorer": false
+}
